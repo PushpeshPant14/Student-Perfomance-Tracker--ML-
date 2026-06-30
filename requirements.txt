@@ -1,11 +1,8 @@
 Flask
-gunicorn
 pandas
 numpy
 scikit-learn
 matplotlib
 seaborn
-catboost
-xgboost
 dill
 -e .
